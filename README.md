@@ -1,2 +1,5 @@
-# learn-linux
-Everything you need to become the god of Linux (command line, shell script, OS, etc.)
+### Contents
+* [Questions] (#questions)
+
+## Questions
+* Shell - Multiple commands in one line [[stackoverflow][http://stackoverflow.com/questions/5130847/shell-multiple-commands-in-one-line]]
