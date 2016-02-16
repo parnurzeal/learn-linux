@@ -4,7 +4,9 @@
 
 ## Articles
 * 20 Linux log files that are located under /var/log [[web][a_log]]
+* Checking storage space [[web][a_storage]]
 [a_log]: http://www.thegeekstuff.com/2011/08/linux-var-log-files/
+[a_storage]: http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/checking-storage-space.html
 
 ## Questions
 * Shell - Multiple commands in one line [[stackoverflow][q_multiple_cmds]]
