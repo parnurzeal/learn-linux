@@ -1,5 +1,10 @@
 ### Contents
 * [Questions] (#questions)
+* [Articles] (#articles)
+
+## Articles
+* 20 Linux log files that are located under /var/log [[web][a_log]]
+[a_log]: http://www.thegeekstuff.com/2011/08/linux-var-log-files/
 
 ## Questions
 * Shell - Multiple commands in one line [[stackoverflow][q_multiple_cmds]]
